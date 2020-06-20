@@ -1,4 +1,4 @@
-# Mothersday-Clock
+# Mother's Day Clock
 
 I built this project for a gift for my wife for Mother's Day.  I used the code from andydoro (https://github.com/andydoro/NeoPixel-60-Ring-Clock) to make the clock part work.  
 
