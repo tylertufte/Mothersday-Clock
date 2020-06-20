@@ -4,6 +4,7 @@ I built this project for a gift for my wife for Mother's Day.  I used the code f
 
 My additions to this project are to add in a second ring that will show how far out 2 other dates are by filling in the ring.  This will update every minute.
 
+## Important Links and Resources
 Metro: https://www.adafruit.com/product/2466
 
 RTC: https://www.adafruit.com/product/3296
